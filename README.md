@@ -38,5 +38,14 @@ Winning Percentage: 73.8%
 
 ### Screenshot of the results in the terminal:
 
+<img width="1440" alt="Screen Shot 2021-07-08 at 12 13 41 PM" src="https://user-images.githubusercontent.com/83719443/124978473-d51c7a80-dfff-11eb-9114-89d289afb6c4.png">
+
+### Screenshot of the results in the Textfile:
+
+<img width="1440" alt="Screen Shot 2021-07-08 at 12 13 56 PM" src="https://user-images.githubusercontent.com/83719443/124978876-53791c80-e000-11eb-9c9e-edf56d101490.png">
+
+## Election Audit Summary:
+
+
 
 
