@@ -38,6 +38,7 @@ Winning Percentage: 73.8%
 
 ### Screenshot of the results in the terminal:
 
+<<<<<<< Updated upstream
 <img width="1440" alt="Screen Shot 2021-07-08 at 12 13 41 PM" src="https://user-images.githubusercontent.com/83719443/124978473-d51c7a80-dfff-11eb-9114-89d289afb6c4.png">
 
 ### Screenshot of the results in the Textfile:
@@ -46,6 +47,23 @@ Winning Percentage: 73.8%
 
 ## Election Audit Summary:
 
+=======
+![Screenshot of results in the terminal](Resources_screenshots/terminal_results.png)
+
+### Screenshot of the results in the Textfile:
+
+![Screenshot of the results in the textfile](Resources_screenshots/Textfile_results.png)
+
+## Election Audit Summary:
+
+* This script can be modified to state level elections which includes all the counties for a state
+All we need is to initialise a dictionary for each state.
+
+* This script can be modified to party level. It means which party has won in all the counties in each of the state.
+Initialising a dictionary for party can help to achieve this.
+
+
+>>>>>>> Stashed changes
 
 
 
